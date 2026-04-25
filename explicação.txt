@@ -7,4 +7,4 @@ tornando dificil o trabalho em equipe.
 
 Repositório em Nuvem: É um arquivo mantido em segurança em um servidor nuvem
 no qual você pode compartilhar esse arquivo facilmente ou atualizalo de forma facil e pratica
-assim facilitando o versionamento do arquivo e tambem facilitando o trabalho em equipe.
+assim facilitando o versionamento do arquivo e também facilitando o trabalho em equipe.
