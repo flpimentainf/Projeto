@@ -1,0 +1,10 @@
+Francisco Lara Pimenta | Engenharia de Software | RA:24214433-2
+Kauã Lizarte Soares | Engenharia de Software | RA: 24139958-2
+
+Repositório Local: É um arquivo mantida em seu proprio computador
+na qual você não consegue compartilhar de forma facil com sua equipe
+tornando dificil o trabalho em equipe.
+
+Repositório em Nuvem: É um arquivo mantido em segurança em um servidor nuvem
+no qual você pode compartilhar esse arquivo facilmente ou atualizalo de forma facil e pratica
+assim facilitando o versionamento do arquivo e tambem facilitando o trabalho em equipe.
