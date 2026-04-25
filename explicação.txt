@@ -1,7 +1,7 @@
 Francisco Lara Pimenta | Engenharia de Software | RA:24214433-2
 Kauã Lizarte Soares | Engenharia de Software | RA: 24139958-2
 
-Repositório Local: É um arquivo mantida em seu proprio computador
+Repositório Local: É um arquivo mantido em seu proprio computador
 na qual você não consegue compartilhar de forma facil com sua equipe
 tornando dificil o trabalho em equipe.
 
